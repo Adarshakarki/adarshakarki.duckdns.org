@@ -1,2 +1,2 @@
-# adarshakarki.duckdns.org
+# adarshakarki.com.np
 my personal website
